@@ -5,3 +5,6 @@ https://github.com/jfteam
 
 ## 数据结构
 https://github.com/shinezejian/javaStructures
+
+## 翁某小小的ConcurrentHashMap源码注释分享
+https://gitee.com/adengdeng/j2ee-demo/blob/master/jdk-source-remark/src/main/java/com/adeng/java/util/concurrent/ConcurrentHashMapRrmark.java
