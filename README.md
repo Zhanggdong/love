@@ -15,3 +15,5 @@ https://zhuanlan.zhihu.com/p/34732997?utm_source=com.tencent.tim&utm_medium=soci
 ## 面试题
 https://www.jianshu.com/p/9ed5572b5c1d
 
+## API设计指南
+https://docs.microsoft.com/zh-cn/azure/architecture/best-practices/api-design?toc=%2Fazure%2Fapi-management%2Ftoc.json
