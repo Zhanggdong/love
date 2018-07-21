@@ -28,3 +28,7 @@ https://mp.weixin.qq.com/s?__biz=MzIxNDU4NjE1OQ==&mid=2247483940&idx=1&sn=76cbba
 
 ## Spring-boot 翟永超github
 https://gitee.com/didispace/SpringBoot-Learning
+
+## 消息中间件kafka学习
+
+https://www.zhihu.com/question/56172498
