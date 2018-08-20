@@ -18,9 +18,14 @@ https://www.jianshu.com/p/9ed5572b5c1d
 ## API设计指南
 https://docs.microsoft.com/zh-cn/azure/architecture/best-practices/api-design?toc=%2Fazure%2Fapi-management%2Ftoc.json
 
-## 内核解析
+## ES内核解析
 <br/>
 https://zhuanlan.zhihu.com/p/35643348?utm_medium=social&utm_member=ZjQ2YWVmNmQ3MTc2MTg3YmUwOWMwYzNmM2Y5NTkxN2I%3D&utm_source=wechat_session&wechatShare=1&from=timeline&isappinstalled=0
+
+## ES相关算法
+PacificA算法 https://www.microsoft.com/en-us/research/publication/pacifica-replication-in-log-based-distributed-storage-systems/
+raft算法 http://www.infoq.com/cn/articles/raft-paper
+
 
 ## 小马哥分享dubbo cloud native与思考
 <br/>
